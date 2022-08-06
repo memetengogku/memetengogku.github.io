@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1659828615611">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1659829024675">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="welcome-to-happy-lands-b-en.css" crc="4125014436" ref="welcome-to-happy-lands-b-en"/>
@@ -19,8 +19,8 @@
     <file name="happy-lands-en.css" crc="387561036" ref="happy-lands-en"/>
     <file name="b-member.css" crc="3886546720" ref="b-member"/>
     <file name="verify-b-en.css" crc="4008090620" ref="verify-b-en"/>
-    <file name="4765-copy.css" crc="3764287867" ref="4765-copy"/>
-    <file name="nomq_4765-copy.css" crc="379135293" ref="4765-copy"/>
+    <file name="4765-copy.css" crc="3856949209" ref="4765-copy"/>
+    <file name="nomq_4765-copy.css" crc="3770988170" ref="4765-copy"/>
     <file name="verify-b.css" crc="99605115" ref="verify-b"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="welcome-to-happy-lands-b.css" crc="4054501080" ref="welcome-to-happy-lands-b"/>
@@ -275,18 +275,18 @@
     <file name="翻譯.jpg" crc="503702609" seo="true" ref="4765-copy">
       <caption webpage="4765-copy" alt=""/>
     </file>
-    <file name="u30263-4.png" crc="191944207" ref="4765-copy"/>
+    <file name="u30263-4.png" crc="4167550135" ref="4765-copy"/>
     <file name="濾鏡.jpg" crc="3981707825" seo="true" ref="4765-copy">
       <caption webpage="4765-copy" alt=""/>
     </file>
-    <file name="u30276-18.png" crc="3852557080" ref="4765-copy"/>
+    <file name="u30276-18.png" crc="4276590936" ref="4765-copy"/>
     <file name="u30240-42.png" crc="4186020540" ref="4765-copy"/>
     <file name="u30263-42.png" crc="4249524750" ref="4765-copy"/>
     <file name="u30276-182.png" crc="4284050425" ref="4765-copy"/>
-    <file name="翻譯402x426.jpg" crc="512473211" seo="true" ref="4765-copy">
+    <file name="翻譯509x539.jpg" crc="30338148" seo="true" ref="4765-copy">
       <caption webpage="4765-copy" alt=""/>
     </file>
-    <file name="濾鏡402x526.jpg" crc="4007606579" seo="true" ref="4765-copy">
+    <file name="濾鏡508x665.jpg" crc="111573879" seo="true" ref="4765-copy">
       <caption webpage="4765-copy" alt=""/>
     </file>
   </folder>
@@ -311,5 +311,5 @@
   <file name="welcome-to-happy-lands.html" crc="3943592497" seo="true" mt="1659534781669" redirect="true"/>
   <file name="verify70.html" crc="154682672" seo="true" mt="1659808175531" redirect="true"/>
   <file name="b-member-en.html" crc="186685204" seo="true" mt="1659542439433" redirect="true"/>
-  <file name="4765-copy.html" crc="159574032" seo="true" mt="1659828608514" redirect="true"/>
+  <file name="4765-copy.html" crc="396783688" seo="true" mt="1659829010665" redirect="true"/>
 </manifest>
