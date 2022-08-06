@@ -137,5 +137,11 @@
     <image:image>
       <image:loc>http://memetengogku.github.io/images/%E6%BF%BE%E9%8F%A1.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/%E7%BF%BB%E8%AD%AF402x426.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/%E6%BF%BE%E9%8F%A1402x526.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
