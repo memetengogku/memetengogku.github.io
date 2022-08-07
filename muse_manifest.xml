@@ -1,4 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1659829024675">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1659854692362">
+  <folder name="assets">
+    <file name="nani.gif" crc="3993418248" seo="true" mt="1659839197000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="welcome-to-happy-lands-b-en.css" crc="4125014436" ref="welcome-to-happy-lands-b-en"/>
@@ -7,7 +10,7 @@
     <file name="happy-lands-verify-p-en.css" crc="4017505054" ref="happy-lands-verify-p-en"/>
     <file name="4765.css" crc="55893815" ref="4765"/>
     <file name="cen.css" crc="4136415754" ref="cen"/>
-    <file name="index.css" crc="3813257692" ref="index"/>
+    <file name="index.css" crc="365206828" ref="index"/>
     <file name="b-member-en.css" crc="4271135272" ref="b-member-en"/>
     <file name="nomq_b-member-en.css" crc="3824530138" ref="b-member-en"/>
     <file name="welcome-to-happy-lands-en.css" crc="418662617" ref="welcome-to-happy-lands-en"/>
@@ -19,31 +22,32 @@
     <file name="happy-lands-en.css" crc="387561036" ref="happy-lands-en"/>
     <file name="b-member.css" crc="3886546720" ref="b-member"/>
     <file name="verify-b-en.css" crc="4008090620" ref="verify-b-en"/>
-    <file name="4765-copy.css" crc="3856949209" ref="4765-copy"/>
-    <file name="nomq_4765-copy.css" crc="3770988170" ref="4765-copy"/>
     <file name="verify-b.css" crc="99605115" ref="verify-b"/>
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="welcome-to-happy-lands-b.css" crc="4054501080" ref="welcome-to-happy-lands-b"/>
     <file name="verify2-en.css" crc="416979333" ref="verify2-en"/>
+    <file name="number1.css" crc="4023774052" ref="number1"/>
+    <file name="nomq_number1.css" crc="216048212" ref="number1"/>
+    <file name="welcome-to-happy-lands-copy.css" crc="3843898876" ref="welcome-to-happy-lands-copy"/>
+    <file name="verify70-copy.css" crc="30747864" ref="verify70-copy"/>
+    <file name="nomq_verify70-copy.css" crc="4144387295" ref="verify70-copy"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:4765-copy"/>
-    <file name="museutils.js" crc="3939489907" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:4765-copy"/>
-    <file name="whatinput.js" crc="86476730" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:4765-copy"/>
-    <file name="museconfig.js" crc="3936894949" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:4765-copy"/>
-    <file name="jquery.watch.js" crc="522499760" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:4765-copy"/>
-    <file name="require.js" crc="4177726516" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:4765-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:number1:verify70-copy:welcome-to-happy-lands-copy"/>
+    <file name="museutils.js" crc="3939489907" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:number1:verify70-copy:welcome-to-happy-lands-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:number1:verify70-copy:welcome-to-happy-lands-copy"/>
+    <file name="museconfig.js" crc="3936894949" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:number1:verify70-copy:welcome-to-happy-lands-copy"/>
+    <file name="jquery.watch.js" crc="522499760" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:number1:verify70-copy:welcome-to-happy-lands-copy"/>
+    <file name="require.js" crc="4177726516" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:number1:verify70-copy:welcome-to-happy-lands-copy"/>
     <file name="webpro.js" crc="3856315280" ref="g-member:b-member:4765:cen:g-member-en:b-member-en"/>
     <file name="musewpslideshow.js" crc="244150766" ref="g-member:b-member:4765:cen:g-member-en:b-member-en"/>
     <file name="jquery.museoverlay.js" crc="3877667098" ref="g-member:b-member:4765:cen:g-member-en:b-member-en"/>
     <file name="touchswipe.js" crc="3888935200" ref="g-member:b-member:4765:cen:g-member-en:b-member-en"/>
-    <file name="jquery.museresponsive.js" crc="95814420" ref="4765-copy"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="number1:verify70-copy"/>
   </folder>
   <folder name="images">
     <file name="u155-4.png" crc="62115653" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:4765-copy"/>
-    <file name="u384.png" crc="3805544077" ref="index"/>
-    <file name="u384-r.png" crc="3805544077" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:number1:verify70-copy:welcome-to-happy-lands-copy"/>
     <file name="u24714-6.png" crc="278998505" ref="verify-f"/>
     <file name="u24716_states.png" crc="340246413" ref="verify-f"/>
     <file name="u24716_states-r.png" crc="142471291" ref="verify-f"/>
@@ -271,27 +275,198 @@
     <file name="u29589_states-r.png" crc="4200861613" ref="b-member-en"/>
     <file name="u29593-4.png" crc="4047499020" ref="b-member-en"/>
     <file name="u29585-10.png" crc="3972278142" ref="b-member-en"/>
-    <file name="u30240-4.png" crc="3764809686" ref="4765-copy"/>
-    <file name="翻譯.jpg" crc="503702609" seo="true" ref="4765-copy">
+    <file name="u30240-4.png" crc="3764809686" ref="number1"/>
+    <file name="翻譯.jpg" crc="172962288" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
       <caption webpage="4765-copy" alt=""/>
     </file>
-    <file name="u30263-4.png" crc="4167550135" ref="4765-copy"/>
-    <file name="濾鏡.jpg" crc="3981707825" seo="true" ref="4765-copy">
+    <file name="u30263-4.png" crc="4167550135" ref="number1"/>
+    <file name="濾鏡.jpg" crc="3767537034" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
       <caption webpage="4765-copy" alt=""/>
     </file>
-    <file name="u30276-18.png" crc="4276590936" ref="4765-copy"/>
-    <file name="u30240-42.png" crc="4186020540" ref="4765-copy"/>
-    <file name="u30263-42.png" crc="4249524750" ref="4765-copy"/>
-    <file name="u30276-182.png" crc="4284050425" ref="4765-copy"/>
-    <file name="翻譯509x539.jpg" crc="30338148" seo="true" ref="4765-copy">
-      <caption webpage="4765-copy" alt=""/>
+    <file name="u30276-18.png" crc="4276590936" ref="number1"/>
+    <file name="u30240-42.png" crc="4186020540" ref="number1"/>
+    <file name="u30263-42.png" crc="4249524750" ref="number1"/>
+    <file name="u30276-182.png" crc="4284050425" ref="number1"/>
+    <file name="u384_states.png" crc="3805544077" ref="index"/>
+    <file name="u384_states-r.png" crc="3805544077" ref="index"/>
+    <file name="6lgayrqu6pf91.jpg" crc="4008940785" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
     </file>
-    <file name="濾鏡508x665.jpg" crc="111573879" seo="true" ref="4765-copy">
-      <caption webpage="4765-copy" alt=""/>
+    <file name="u30379-4.png" crc="228042852" ref="number1"/>
+    <file name="u30435-4.png" crc="4035044966" ref="number1"/>
+    <file name="nani_1.gif" crc="166755303" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
     </file>
+    <file name="u30452-4.png" crc="521652522" ref="number1"/>
+    <file name="nani.gif" crc="154795630" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30469-4.png" crc="321986081" ref="number1"/>
+    <file name="nani_12.gif" crc="3794585099" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30501-4.png" crc="3897751650" ref="number1"/>
+    <file name="apjx9n32dtf91.jpg" crc="4143484600" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30519-4.png" crc="511921622" ref="number1"/>
+    <file name="e507x443.jpg" crc="230482285" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30585-4.png" crc="287955088" ref="number1"/>
+    <file name="jukzcmartuf91.jpg" crc="4067012355" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30603-4.png" crc="4161707968" ref="number1"/>
+    <file name="757.jpg" crc="256328334" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30621-4.png" crc="473347728" ref="number1"/>
+    <file name="grnbzpf4dvf91.jpg" crc="3962758429" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30663-4.png" crc="4155230618" ref="number1"/>
+    <file name="loumuto1bvf91.jpg" crc="3789135031" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30681-4.png" crc="257078155" ref="number1"/>
+    <file name="okp747uy4sf91.jpg" crc="179483149" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30711-4.png" crc="3954012103" ref="number1"/>
+    <file name="pvj7upwiztf91.jpg" crc="3799526412" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30729-4.png" crc="4233343637" ref="number1"/>
+    <file name="eweeq.gif" crc="4171118006" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30770-4.png" crc="392378249" ref="number1"/>
+    <file name="77777.jpg" crc="3775075456" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30788-4.png" crc="249687985" ref="number1"/>
+    <file name="79.jpg" crc="94313247" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30812-6.png" crc="86459025" ref="number1"/>
+    <file name="vmqnbkpa5uf91.jpg" crc="3808997180" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30830-22.png" crc="457147527" ref="number1"/>
+    <file name="645.jpg" crc="25405046" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30806-4.png" crc="3864698703" ref="number1"/>
+    <file name="u30872-4.png" crc="465669136" ref="number1"/>
+    <file name="u30848-4.png" crc="500828230" ref="number1"/>
+    <file name="u31336_states.png" crc="3791629997" ref="number1"/>
+    <file name="u31336_states-r.png" crc="3791629997" ref="number1"/>
+    <file name="u31340_states.png" crc="503715878" ref="number1"/>
+    <file name="u31340_states-r.png" crc="503715878" ref="number1"/>
+    <file name="u31342_states.png" crc="438934668" ref="number1"/>
+    <file name="u31342_states-r.png" crc="438934668" ref="number1"/>
+    <file name="u31338_states.png" crc="483412125" ref="number1"/>
+    <file name="u31338_states-r.png" crc="483412125" ref="number1"/>
+    <file name="u30904-4.png" crc="529216968" ref="number1"/>
+    <file name="u30853-4.png" crc="4043376437" ref="number1"/>
+    <file name="u30878-8.png" crc="3945513404" ref="number1"/>
+    <file name="nani2.gif" crc="3993418248" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30379-42.png" crc="228042852" ref="number1"/>
+    <file name="u30435-42.png" crc="783015" ref="number1"/>
+    <file name="u30452-42.png" crc="521652522" ref="number1"/>
+    <file name="u30469-42.png" crc="419148086" ref="number1"/>
+    <file name="u30501-42.png" crc="74715961" ref="number1"/>
+    <file name="u30519-42.png" crc="511921622" ref="number1"/>
+    <file name="e.jpg" crc="4062249194" seo="true" ref="number1">
+      <caption webpage="number1" alt=""/>
+    </file>
+    <file name="u30585-42.png" crc="4214011739" ref="number1"/>
+    <file name="u30603-42.png" crc="4278749426" ref="number1"/>
+    <file name="u30621-42.png" crc="246669753" ref="number1"/>
+    <file name="u30663-42.png" crc="3963092011" ref="number1"/>
+    <file name="u30681-42.png" crc="5951071" ref="number1"/>
+    <file name="u30711-42.png" crc="455420673" ref="number1"/>
+    <file name="u30729-42.png" crc="91362119" ref="number1"/>
+    <file name="u30770-42.png" crc="252734607" ref="number1"/>
+    <file name="u30788-42.png" crc="479336791" ref="number1"/>
+    <file name="u30830-222.png" crc="3945309855" ref="number1"/>
+    <file name="u30812-62.png" crc="3826949558" ref="number1"/>
+    <file name="u30806-42.png" crc="4235261698" ref="number1"/>
+    <file name="u30872-42.png" crc="3935417934" ref="number1"/>
+    <file name="u30848-42.png" crc="410526435" ref="number1"/>
+    <file name="u31336_states2.png" crc="25209097" ref="number1"/>
+    <file name="u31336_states-r2.png" crc="25209097" ref="number1"/>
+    <file name="u31340_states2.png" crc="4047692445" ref="number1"/>
+    <file name="u31340_states-r2.png" crc="4047692445" ref="number1"/>
+    <file name="u31342_states2.png" crc="4090413408" ref="number1"/>
+    <file name="u31342_states-r2.png" crc="4090413408" ref="number1"/>
+    <file name="u31338_states2.png" crc="472464185" ref="number1"/>
+    <file name="u31338_states-r2.png" crc="472464185" ref="number1"/>
+    <file name="u30904-42.png" crc="4018809673" ref="number1"/>
+    <file name="u30853-42.png" crc="4005370135" ref="number1"/>
+    <file name="u30878-82.png" crc="27311998" ref="number1"/>
+    <file name="u31183-4.png" crc="492802578" ref="verify70-copy"/>
+    <file name="u31239-168.png" crc="389875412" ref="verify70-copy"/>
+    <file name="u31190-4.png" crc="4169725063" ref="verify70-copy"/>
+    <file name="u31192_states.png" crc="3791629997" ref="verify70-copy"/>
+    <file name="u31192_states-r.png" crc="3791629997" ref="verify70-copy"/>
+    <file name="u31198_states.png" crc="503715878" ref="verify70-copy"/>
+    <file name="u31198_states-r.png" crc="503715878" ref="verify70-copy"/>
+    <file name="u31200_states.png" crc="438934668" ref="verify70-copy"/>
+    <file name="u31200_states-r.png" crc="438934668" ref="verify70-copy"/>
+    <file name="u31194_states.png" crc="483412125" ref="verify70-copy"/>
+    <file name="u31194_states-r.png" crc="483412125" ref="verify70-copy"/>
+    <file name="u31195-4.png" crc="4043376437" ref="verify70-copy"/>
+    <file name="u31196-8.png" crc="3945513404" ref="verify70-copy"/>
+    <file name="u31183-42.png" crc="111317765" ref="verify70-copy"/>
+    <file name="u31239-1682.png" crc="160245616" ref="verify70-copy"/>
+    <file name="u31190-42.png" crc="508718977" ref="verify70-copy"/>
+    <file name="u31192_states2.png" crc="25209097" ref="verify70-copy"/>
+    <file name="u31192_states-r2.png" crc="25209097" ref="verify70-copy"/>
+    <file name="u31198_states2.png" crc="4047692445" ref="verify70-copy"/>
+    <file name="u31198_states-r2.png" crc="4047692445" ref="verify70-copy"/>
+    <file name="u31200_states2.png" crc="4090413408" ref="verify70-copy"/>
+    <file name="u31200_states-r2.png" crc="4090413408" ref="verify70-copy"/>
+    <file name="u31194_states2.png" crc="194152073" ref="verify70-copy"/>
+    <file name="u31194_states-r2.png" crc="194152073" ref="verify70-copy"/>
+    <file name="u31195-42.png" crc="3851768145" ref="verify70-copy"/>
+    <file name="u31196-82.png" crc="4137509416" ref="verify70-copy"/>
+    <file name="u31305-4.png" crc="255861977" ref="welcome-to-happy-lands-copy"/>
+    <file name="u31296-4.png" crc="4056729328" ref="welcome-to-happy-lands-copy"/>
+    <file name="u31299-4.png" crc="24649027" ref="welcome-to-happy-lands-copy"/>
+    <file name="u31304_states.png" crc="3791629997" ref="welcome-to-happy-lands-copy"/>
+    <file name="u31304_states-r.png" crc="3791629997" ref="welcome-to-happy-lands-copy"/>
+    <file name="u31302_states.png" crc="483412125" ref="welcome-to-happy-lands-copy"/>
+    <file name="u31302_states-r.png" crc="483412125" ref="welcome-to-happy-lands-copy"/>
+    <file name="u31300-4.png" crc="4043376437" ref="welcome-to-happy-lands-copy"/>
+    <file name="u31297-8.png" crc="97688743" ref="welcome-to-happy-lands-copy"/>
   </folder>
   <file name="usc.html" crc="359825217" seo="true" mt="1656495664805" redirect="true"/>
-  <file name="index.html" crc="4225299920" seo="true" mt="1659807423669" redirect="true"/>
+  <file name="index.html" crc="4055174940" seo="true" mt="1659847962526" redirect="true"/>
   <file name="verify-f.html" crc="4018794260" seo="true" mt="1659356570308" redirect="true"/>
   <file name="g-member.html" crc="4201138170" seo="true" mt="1659539600066" redirect="true"/>
   <file name="verify-b.html" crc="263157094" seo="true" mt="1658901852708" redirect="true"/>
@@ -311,5 +486,7 @@
   <file name="welcome-to-happy-lands.html" crc="3943592497" seo="true" mt="1659534781669" redirect="true"/>
   <file name="verify70.html" crc="154682672" seo="true" mt="1659808175531" redirect="true"/>
   <file name="b-member-en.html" crc="186685204" seo="true" mt="1659542439433" redirect="true"/>
-  <file name="4765-copy.html" crc="396783688" seo="true" mt="1659829010665" redirect="true"/>
+  <file name="number1.html" crc="509549052" seo="true" mt="1659854649966" redirect="true"/>
+  <file name="verify70-copy.html" crc="211523353" seo="true" mt="1659853013161" redirect="true"/>
+  <file name="welcome-to-happy-lands-copy.html" crc="3822463775" seo="true" mt="1659851864842" redirect="true"/>
 </manifest>
