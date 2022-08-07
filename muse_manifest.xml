@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1659899633020">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1659900358050">
   <folder name="assets">
     <file name="nani.gif" crc="3993418248" seo="true" mt="1659839197000"/>
   </folder>
@@ -26,8 +26,8 @@
     <file name="usc.css" crc="4130019171" ref="usc"/>
     <file name="welcome-to-happy-lands-b.css" crc="4054501080" ref="welcome-to-happy-lands-b"/>
     <file name="verify2-en.css" crc="416979333" ref="verify2-en"/>
-    <file name="number1.css" crc="176496152" ref="number1"/>
-    <file name="nomq_number1.css" crc="4036890904" ref="number1"/>
+    <file name="number1.css" crc="4268000969" ref="number1"/>
+    <file name="nomq_number1.css" crc="3977813780" ref="number1"/>
     <file name="wish-zone-verify.css" crc="106051370" ref="wish-zone-verify"/>
     <file name="wish-zone.css" crc="448686000" ref="wish-zone"/>
     <file name="nomq_wish-zone.css" crc="261761617" ref="wish-zone"/>
@@ -276,7 +276,7 @@
     <file name="u29589_states-r.png" crc="4200861613" ref="b-member-en"/>
     <file name="u29593-4.png" crc="4047499020" ref="b-member-en"/>
     <file name="u29585-10.png" crc="3972278142" ref="b-member-en"/>
-    <file name="u30240-4.png" crc="3764809686" ref="number1"/>
+    <file name="u30240-4.png" crc="4032207255" ref="number1"/>
     <file name="翻譯.jpg" crc="172962288" seo="true" ref="number1">
       <caption webpage="4765-copy" alt=""/>
       <caption webpage="number1" alt=""/>
@@ -288,10 +288,8 @@
       <caption webpage="number1" alt=""/>
       <caption webpage="number1" alt=""/>
     </file>
-    <file name="u30276-18.png" crc="4276590936" ref="number1"/>
-    <file name="u30240-42.png" crc="4186020540" ref="number1"/>
+    <file name="u30240-42.png" crc="4112936943" ref="number1"/>
     <file name="u30263-42.png" crc="4249524750" ref="number1"/>
-    <file name="u30276-182.png" crc="4284050425" ref="number1"/>
     <file name="u384_states.png" crc="4162761565" ref="index"/>
     <file name="u384_states-r.png" crc="4162761565" ref="index"/>
     <file name="6lgayrqu6pf91.jpg" crc="4008940785" seo="true" ref="number1">
@@ -481,6 +479,8 @@
     <file name="u31190-6.png" crc="136333850" ref="wish-zone"/>
     <file name="u31239-1772.png" crc="4169987776" ref="wish-zone"/>
     <file name="u31190-62.png" crc="5530645" ref="wish-zone"/>
+    <file name="u31797-18.png" crc="105022632" ref="number1"/>
+    <file name="u31797-182.png" crc="4109109920" ref="number1"/>
   </folder>
   <file name="usc.html" crc="165225410" seo="true" mt="1659856982432" redirect="true"/>
   <file name="index.html" crc="3850138888" seo="true" mt="1659898233407" redirect="true"/>
@@ -503,7 +503,7 @@
   <file name="welcome-to-happy-lands.html" crc="154807656" seo="true" mt="1659856982432" redirect="true"/>
   <file name="verify70.html" crc="36510218" seo="true" mt="1659856982432" redirect="true"/>
   <file name="b-member-en.html" crc="186685204" seo="true" mt="1659542439433" redirect="true"/>
-  <file name="number1.html" crc="222005358" seo="true" mt="1659899529304" redirect="true"/>
+  <file name="number1.html" crc="388154060" seo="true" mt="1659900346104" redirect="true"/>
   <file name="wish-zone.html" crc="4027979713" seo="true" mt="1659899389900" redirect="true"/>
   <file name="wish-zone-verify.html" crc="3768716377" seo="true" mt="1659899609944" redirect="true"/>
 </manifest>
