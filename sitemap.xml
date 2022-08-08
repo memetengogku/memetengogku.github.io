@@ -13,8 +13,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://memetengogku.github.io/verify-f-en.html</loc>
-    <lastmod>2022-08-07</lastmod>
+    <loc>http://memetengogku.github.io/verify-b-en.html</loc>
+    <lastmod>2022-07-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -79,14 +79,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://memetengogku.github.io/verify70.html</loc>
+    <loc>http://memetengogku.github.io/verify-f-en.html</loc>
     <lastmod>2022-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://memetengogku.github.io/verify-b-en.html</loc>
-    <lastmod>2022-07-30</lastmod>
+    <loc>http://memetengogku.github.io/b-member-en.html</loc>
+    <lastmod>2022-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -121,20 +121,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://memetengogku.github.io/wish-zone.html</loc>
-    <lastmod>2022-08-08</lastmod>
+    <loc>http://memetengogku.github.io/verify70.html</loc>
+    <lastmod>2022-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://memetengogku.github.io/b-member-en.html</loc>
-    <lastmod>2022-08-04</lastmod>
+    <loc>http://memetengogku.github.io/wish-zone-verify.html</loc>
+    <lastmod>2022-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://memetengogku.github.io/number1.html</loc>
-    <lastmod>2022-08-08</lastmod>
+    <lastmod>2022-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -199,6 +199,81 @@
     </image:image>
     <image:image>
       <image:loc>http://memetengogku.github.io/images/e2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://memetengogku.github.io/wish-zone.html</loc>
+    <lastmod>2022-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://memetengogku.github.io/rule-under.html</loc>
+    <lastmod>2022-08-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/1659923916206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/789.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/6wzm0wp73ag91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/1659912332262.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/su39bae1abg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/0f4niioghcg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/ik5o16r7fdg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/8675309.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/ewq.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/9exinu84odg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/9z7h0zi7sdg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/hgvdwk1hqag91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/3lq559wivdg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/6dkchzifh9g91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/ut3zoldxhag91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/0n4afgiu0cg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/7cf583vwbdg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/gv0rbsxmzcg91-crop-u32785.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/gv0rbsxmzcg91-crop-u327852.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/e3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/polish_20220808_093441163.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -310,19 +385,10 @@
     </image:image>
   </url>
   <url>
-    <loc>http://memetengogku.github.io/wish-zone-verify.html</loc>
-    <lastmod>2022-08-08</lastmod>
+    <loc>http://memetengogku.github.io/number3.html</loc>
+    <lastmod>2022-08-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://memetengogku.github.io/rule-under.html</loc>
-    <lastmod>2022-08-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://memetengogku.github.io/images/e.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://memetengogku.github.io/images/1659923916206.jpg</image:loc>
     </image:image>
@@ -375,16 +441,16 @@
       <image:loc>http://memetengogku.github.io/images/7cf583vwbdg91.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://memetengogku.github.io/images/gv0rbsxmzcg91-crop-u32785.jpg</image:loc>
+      <image:loc>http://memetengogku.github.io/images/e3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://memetengogku.github.io/images/polish_20220808_0934411632.jpg</image:loc>
+      <image:loc>http://memetengogku.github.io/images/polish_20220808_093441163.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://memetengogku.github.io/images/gv0rbsxmzcg91-crop-u327852.jpg</image:loc>
+      <image:loc>http://memetengogku.github.io/images/gv0rbsxmzcg91-crop-u33787.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://memetengogku.github.io/images/polish_20220808_093441163662x942.jpg</image:loc>
+      <image:loc>http://memetengogku.github.io/images/gv0rbsxmzcg91-crop-u337872.jpg</image:loc>
     </image:image>
   </url>
   <url>
