@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1659994890980">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1660018951835">
   <folder name="assets">
     <file name="nani.gif" crc="3993418248" seo="true" mt="1659839197000"/>
   </folder>
@@ -36,8 +36,8 @@
     <file name="nomq_rule-under.css" crc="479821685" ref="rule-under"/>
     <file name="number2.css" crc="395255389" ref="number2"/>
     <file name="nomq_number2.css" crc="4107833561" ref="number2"/>
-    <file name="number3.css" crc="445177106" ref="number3"/>
-    <file name="nomq_number3.css" crc="4071304236" ref="number3"/>
+    <file name="number3.css" crc="119420028" ref="number3"/>
+    <file name="nomq_number3.css" crc="3925769820" ref="number3"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="usc:index:verify-f:g-member:verify-b:welcome-to-happy-lands-b:b-member:4765:happy-lands-en:verify1-en:verify2-en:happy-lands-verify-p-en:verify-f-en:verify-b-en:welcome-to-happy-lands-en:welcome-to-happy-lands-b-en:cen:g-member-en:welcome-to-happy-lands:verify70:b-member-en:number1:wish-zone:wish-zone-verify:number2:rule-under:number3"/>
@@ -511,7 +511,7 @@
       <caption webpage="number2" alt=""/>
     </file>
     <file name="u32233-4.png" crc="83870666" ref="number2"/>
-    <file name="1659923916206.jpg" crc="4040584791" seo="true" ref="number2:rule-under:number3">
+    <file name="1659923916206.jpg" crc="4040584791" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -520,7 +520,7 @@
       <caption webpage="number2" alt=""/>
     </file>
     <file name="u32242-21.png" crc="527285337" ref="number2"/>
-    <file name="789.jpg" crc="4035942419" seo="true" ref="number2:rule-under:number3">
+    <file name="789.jpg" crc="4035942419" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -550,7 +550,7 @@
       <caption webpage="number2" alt=""/>
     </file>
     <file name="u32603-4.png" crc="4013103082" ref="number2"/>
-    <file name="6wzm0wp73ag91.jpg" crc="4004058989" seo="true" ref="number2:rule-under:number3">
+    <file name="6wzm0wp73ag91.jpg" crc="4004058989" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -567,7 +567,7 @@
       <caption webpage="number2" alt=""/>
     </file>
     <file name="u32189-4.png" crc="208844330" ref="number2"/>
-    <file name="1659912332262.png" crc="3892127474" seo="true" ref="number2:rule-under:number3">
+    <file name="1659912332262.png" crc="3892127474" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -584,7 +584,7 @@
       <caption webpage="number2" alt=""/>
     </file>
     <file name="u32707-4.png" crc="3853248194" ref="number2"/>
-    <file name="su39bae1abg91.jpg" crc="3986878880" seo="true" ref="number2:rule-under:number3">
+    <file name="su39bae1abg91.jpg" crc="3986878880" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -619,7 +619,7 @@
     <file name="u32235-4.png" crc="4043376437" ref="number2"/>
     <file name="u32234-8.png" crc="3945513404" ref="number2"/>
     <file name="u32214-42.png" crc="4277887853" ref="number2"/>
-    <file name="0f4niioghcg91.jpg" crc="4133585994" seo="true" ref="number2:rule-under:number3">
+    <file name="0f4niioghcg91.jpg" crc="4133585994" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -634,7 +634,7 @@
     <file name="u32233-42.png" crc="3977283833" ref="number2"/>
     <file name="u32242-212.png" crc="527285337" ref="number2"/>
     <file name="u32533-42.png" crc="3914149035" ref="number2"/>
-    <file name="ik5o16r7fdg91.jpg" crc="106238153" seo="true" ref="number2:rule-under:number3">
+    <file name="ik5o16r7fdg91.jpg" crc="106238153" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -642,7 +642,7 @@
       <caption webpage="number2" alt=""/>
     </file>
     <file name="u32228-42.png" crc="4105190274" ref="number2"/>
-    <file name="8675309.jpg" crc="4097502020" seo="true" ref="number2:rule-under:number3">
+    <file name="8675309.jpg" crc="4097502020" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -651,7 +651,7 @@
     </file>
     <file name="u32561-42.png" crc="4112968090" ref="number2"/>
     <file name="u32199-42.png" crc="3951110119" ref="number2"/>
-    <file name="ewq.jpg" crc="3763182382" seo="true" ref="number2:rule-under:number3">
+    <file name="ewq.jpg" crc="3763182382" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -659,7 +659,7 @@
       <caption webpage="number2" alt=""/>
     </file>
     <file name="u32222-42.png" crc="169561229" ref="number2"/>
-    <file name="9exinu84odg91.jpg" crc="178988638" seo="true" ref="number2:rule-under:number3">
+    <file name="9exinu84odg91.jpg" crc="178988638" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -668,7 +668,7 @@
     </file>
     <file name="u32603-42.png" crc="259827875" ref="number2"/>
     <file name="u32621-42.png" crc="454335711" ref="number2"/>
-    <file name="9z7h0zi7sdg91.jpg" crc="4064040612" seo="true" ref="number2:rule-under:number3">
+    <file name="9z7h0zi7sdg91.jpg" crc="4064040612" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -676,7 +676,7 @@
       <caption webpage="number2" alt=""/>
     </file>
     <file name="u32195-42.png" crc="4068451346" ref="number2"/>
-    <file name="hgvdwk1hqag91.jpg" crc="104416889" seo="true" ref="number2:rule-under:number3">
+    <file name="hgvdwk1hqag91.jpg" crc="104416889" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -685,7 +685,7 @@
     </file>
     <file name="u32189-42.png" crc="324480828" ref="number2"/>
     <file name="u32245-42.png" crc="5181669" ref="number2"/>
-    <file name="3lq559wivdg91.jpg" crc="498110144" seo="true" ref="number2:rule-under:number3">
+    <file name="3lq559wivdg91.jpg" crc="498110144" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -693,7 +693,7 @@
       <caption webpage="number2" alt=""/>
     </file>
     <file name="u32200-42.png" crc="4112256267" ref="number2"/>
-    <file name="6dkchzifh9g91.jpg" crc="391661764" seo="true" ref="number2:rule-under:number3">
+    <file name="6dkchzifh9g91.jpg" crc="391661764" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -702,7 +702,7 @@
     </file>
     <file name="u32707-42.png" crc="4179559736" ref="number2"/>
     <file name="u32725-42.png" crc="3964114932" ref="number2"/>
-    <file name="ut3zoldxhag91.jpg" crc="3868647356" seo="true" ref="number2:rule-under:number3">
+    <file name="ut3zoldxhag91.jpg" crc="3868647356" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -710,7 +710,7 @@
       <caption webpage="number2" alt=""/>
     </file>
     <file name="u32194-42.png" crc="4138360242" ref="number2"/>
-    <file name="0n4afgiu0cg91.jpg" crc="131727902" seo="true" ref="number2:rule-under:number3">
+    <file name="0n4afgiu0cg91.jpg" crc="131727902" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -718,7 +718,7 @@
       <caption webpage="number2" alt=""/>
     </file>
     <file name="u32213-42.png" crc="371986728" ref="number2"/>
-    <file name="7cf583vwbdg91.jpg" crc="418012733" seo="true" ref="number2:rule-under:number3">
+    <file name="7cf583vwbdg91.jpg" crc="418012733" seo="true" ref="number2:rule-under">
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="rule-under" alt=""/>
@@ -815,38 +815,19 @@
     <file name="u32825-42.png" crc="4018809673" ref="rule-under"/>
     <file name="u32839-42.png" crc="4005370135" ref="rule-under"/>
     <file name="u32795-82.png" crc="27311998" ref="rule-under"/>
-    <file name="e3.jpg" crc="4253746355" seo="true" ref="rule-under:number3">
+    <file name="e3.jpg" crc="4253746355" seo="true" ref="rule-under">
       <caption webpage="rule-under" alt=""/>
       <caption webpage="rule-under" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
     </file>
-    <file name="polish_20220808_093441163.png" crc="4119645249" seo="true" ref="rule-under:number3">
+    <file name="polish_20220808_093441163.png" crc="4119645249" seo="true" ref="rule-under">
       <caption webpage="rule-under" alt=""/>
       <caption webpage="rule-under" alt=""/>
       <caption webpage="number3" alt=""/>
       <caption webpage="number3" alt=""/>
     </file>
-    <file name="u33771-4.png" crc="4186480125" ref="number3"/>
-    <file name="u33762-4.png" crc="229909794" ref="number3"/>
-    <file name="gv0rbsxmzcg91-crop-u33787.jpg" crc="4200296812" seo="true" ref="number3">
-      <caption webpage="number3" alt=""/>
-    </file>
-    <file name="u33778-4.png" crc="10214652" ref="number3"/>
-    <file name="u33801-4.png" crc="215461876" ref="number3"/>
-    <file name="u33779-21.png" crc="527285337" ref="number3"/>
-    <file name="u33825-4.png" crc="3874722641" ref="number3"/>
-    <file name="u33830-4.png" crc="22112435" ref="number3"/>
-    <file name="u33796-4.png" crc="59206765" ref="number3"/>
-    <file name="u33798-4.png" crc="376486014" ref="number3"/>
-    <file name="u33824-4.png" crc="287955088" ref="number3"/>
-    <file name="u33783-4.png" crc="202561763" ref="number3"/>
-    <file name="u33815-4.png" crc="474380305" ref="number3"/>
-    <file name="u33797-4.png" crc="208844330" ref="number3"/>
-    <file name="u33805-4.png" crc="332851722" ref="number3"/>
-    <file name="u33818-4.png" crc="3758377765" ref="number3"/>
-    <file name="u33814-4.png" crc="4226607245" ref="number3"/>
-    <file name="u33793-4.png" crc="3860409899" ref="number3"/>
+    <file name="u33771-4.png" crc="308373413" ref="number3"/>
     <file name="u33784-6.png" crc="4131515131" ref="number3"/>
     <file name="u33775-4.png" crc="4043376437" ref="number3"/>
     <file name="u33795-4.png" crc="465669136" ref="number3"/>
@@ -860,36 +841,7 @@
     <file name="u33807_states-r.png" crc="503715878" ref="number3"/>
     <file name="u33800_states.png" crc="438934668" ref="number3"/>
     <file name="u33800_states-r.png" crc="438934668" ref="number3"/>
-    <file name="u33782-4.png" crc="4215268415" ref="number3"/>
-    <file name="u33767-4.png" crc="3980744212" ref="number3"/>
-    <file name="u33768-4.png" crc="3853248194" ref="number3"/>
-    <file name="u33821-4.png" crc="308818764" ref="number3"/>
-    <file name="u33802-4.png" crc="4180580547" ref="number3"/>
-    <file name="u33771-42.png" crc="4277887853" ref="number3"/>
-    <file name="u33762-42.png" crc="3903966785" ref="number3"/>
-    <file name="gv0rbsxmzcg91-crop-u337872.jpg" crc="380573301" seo="true" ref="number3">
-      <caption webpage="number3" alt=""/>
-    </file>
-    <file name="u33778-42.png" crc="3784683446" ref="number3"/>
-    <file name="u33801-42.png" crc="3977283833" ref="number3"/>
-    <file name="u33779-212.png" crc="527285337" ref="number3"/>
-    <file name="u33796-42.png" crc="3914149035" ref="number3"/>
-    <file name="u33825-42.png" crc="4105190274" ref="number3"/>
-    <file name="u33798-42.png" crc="4112968090" ref="number3"/>
-    <file name="u33830-42.png" crc="3951110119" ref="number3"/>
-    <file name="u33824-42.png" crc="4214011739" ref="number3"/>
-    <file name="u33783-42.png" crc="169561229" ref="number3"/>
-    <file name="u33782-42.png" crc="259827875" ref="number3"/>
-    <file name="u33767-42.png" crc="454335711" ref="number3"/>
-    <file name="u33815-42.png" crc="4068451346" ref="number3"/>
-    <file name="u33797-42.png" crc="324480828" ref="number3"/>
-    <file name="u33805-42.png" crc="5181669" ref="number3"/>
-    <file name="u33818-42.png" crc="4112256267" ref="number3"/>
-    <file name="u33768-42.png" crc="4179559736" ref="number3"/>
-    <file name="u33821-42.png" crc="3964114932" ref="number3"/>
-    <file name="u33793-42.png" crc="4138360242" ref="number3"/>
-    <file name="u33814-42.png" crc="371986728" ref="number3"/>
-    <file name="u33802-42.png" crc="72571397" ref="number3"/>
+    <file name="u33771-42.png" crc="4156604476" ref="number3"/>
     <file name="u33795-42.png" crc="3935417934" ref="number3"/>
     <file name="u33784-62.png" crc="4215701777" ref="number3"/>
     <file name="u33811_states2.png" crc="25209097" ref="number3"/>
@@ -903,6 +855,126 @@
     <file name="u33833-42.png" crc="4018809673" ref="number3"/>
     <file name="u33775-42.png" crc="4005370135" ref="number3"/>
     <file name="u33774-82.png" crc="27311998" ref="number3"/>
+    <file name="g0qcm547yeg91.jpg" crc="4110155580" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34072-4.png" crc="252352736" ref="number3"/>
+    <file name="noz01nvpbkg91508x502.jpg" crc="391296724" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34090-39.png" crc="3917219071" ref="number3"/>
+    <file name="88d6h5t6rgg91.jpg" crc="18655555" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34120-4.png" crc="164820428" ref="number3"/>
+    <file name="tq3qvah7sjg91.jpg" crc="4198508964" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34146-4.png" crc="4250210488" ref="number3"/>
+    <file name="wg.jpg" crc="209693800" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34164-25.png" crc="155199482" ref="number3"/>
+    <file name="vs62q8tjrig91508x509.jpg" crc="108203475" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34182-17.png" crc="123528626" ref="number3"/>
+    <file name="b27k7pklcjg91.jpg" crc="3948730067" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34200-27.png" crc="3974397930" ref="number3"/>
+    <file name="cay7wtkt4kg91.jpg" crc="3896065520" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34226-20.png" crc="369609373" ref="number3"/>
+    <file name="8kyswrul8ig91.jpg" crc="3891288529" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34244-4.png" crc="4050133349" ref="number3"/>
+    <file name="fjhowcu40gg91.jpg" crc="4161852109" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34262-19.png" crc="340916761" ref="number3"/>
+    <file name="rrrr.jpg" crc="3803657108" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34290-17.png" crc="4132220023" ref="number3"/>
+    <file name="879736.jpg" crc="4238747960" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34308-4.png" crc="3897176020" ref="number3"/>
+    <file name="6t52ha01cig91.jpg" crc="3758644524" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34326-4.png" crc="265433293" ref="number3"/>
+    <file name="754jpg.jpg" crc="494150598" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34344-75.png" crc="314790932" ref="number3"/>
+    <file name="eweq.jpg" crc="399776072" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34362-52.png" crc="175897631" ref="number3"/>
+    <file name="5kp28qhgsjg91.jpg" crc="4179045207" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34380-4.png" crc="4162225252" ref="number3"/>
+    <file name="dl5nq2td4hg91.jpg" crc="4246819764" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34398-4.png" crc="12263586" ref="number3"/>
+    <file name="c16y0520cig91.jpg" crc="124851807" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34416-4.png" crc="230074476" ref="number3"/>
+    <file name="0b6kvafl0jg91508x621.jpg" crc="4029149860" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34446-4.png" crc="149217187" ref="number3"/>
+    <file name="u34072-42.png" crc="3897742287" ref="number3"/>
+    <file name="noz01nvpbkg91.jpg" crc="45149084" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34090-392.png" crc="3995057873" ref="number3"/>
+    <file name="u34120-42.png" crc="4203796270" ref="number3"/>
+    <file name="u34146-42.png" crc="4253023026" ref="number3"/>
+    <file name="u34164-252.png" crc="4048684671" ref="number3"/>
+    <file name="vs62q8tjrig91.jpg" crc="120976647" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34182-172.png" crc="3795046960" ref="number3"/>
+    <file name="u34200-272.png" crc="119718349" ref="number3"/>
+    <file name="u34226-202.png" crc="264773317" ref="number3"/>
+    <file name="u34244-42.png" crc="3907094981" ref="number3"/>
+    <file name="u34262-192.png" crc="3800241506" ref="number3"/>
+    <file name="u34290-172.png" crc="405628634" ref="number3"/>
+    <file name="u34308-42.png" crc="4075292760" ref="number3"/>
+    <file name="u34326-42.png" crc="442250124" ref="number3"/>
+    <file name="u34344-752.png" crc="42342204" ref="number3"/>
+    <file name="u34362-522.png" crc="101949712" ref="number3"/>
+    <file name="u34380-42.png" crc="300596713" ref="number3"/>
+    <file name="u34398-42.png" crc="511817662" ref="number3"/>
+    <file name="u34416-42.png" crc="4202873169" ref="number3"/>
+    <file name="0b6kvafl0jg91.jpg" crc="4063620774" seo="true" ref="number3">
+      <caption webpage="number3" alt=""/>
+    </file>
+    <file name="u34446-42.png" crc="4155489398" ref="number3"/>
   </folder>
   <file name="usc.html" crc="165225410" seo="true" mt="1659856982432" redirect="true"/>
   <file name="index.html" crc="4029853277" seo="true" mt="1659924860366" redirect="true"/>
@@ -930,5 +1002,5 @@
   <file name="wish-zone-verify.html" crc="3768716377" seo="true" mt="1659899609944" redirect="true"/>
   <file name="number2.html" crc="4285201547" seo="true" mt="1659945469366" redirect="true"/>
   <file name="rule-under.html" crc="187279716" seo="true" mt="1659988895426" redirect="true"/>
-  <file name="number3.html" crc="4211103736" seo="true" mt="1659988932217" redirect="true"/>
+  <file name="number3.html" crc="3905076937" seo="true" mt="1660018915968" redirect="true"/>
 </manifest>
