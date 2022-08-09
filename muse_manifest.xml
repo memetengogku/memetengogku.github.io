@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1660018951835">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1660019004557">
   <folder name="assets">
     <file name="nani.gif" crc="3993418248" seo="true" mt="1659839197000"/>
   </folder>
@@ -10,7 +10,7 @@
     <file name="happy-lands-verify-p-en.css" crc="4017505054" ref="happy-lands-verify-p-en"/>
     <file name="4765.css" crc="55893815" ref="4765"/>
     <file name="cen.css" crc="4136415754" ref="cen"/>
-    <file name="index.css" crc="440659157" ref="index"/>
+    <file name="index.css" crc="182923046" ref="index"/>
     <file name="b-member-en.css" crc="4271135272" ref="b-member-en"/>
     <file name="nomq_b-member-en.css" crc="3824530138" ref="b-member-en"/>
     <file name="welcome-to-happy-lands-en.css" crc="418662617" ref="welcome-to-happy-lands-en"/>
@@ -975,9 +975,11 @@
       <caption webpage="number3" alt=""/>
     </file>
     <file name="u34446-42.png" crc="4155489398" ref="number3"/>
+    <file name="u34518_states.png" crc="152037886" ref="index"/>
+    <file name="u34518_states-r.png" crc="152037886" ref="index"/>
   </folder>
   <file name="usc.html" crc="165225410" seo="true" mt="1659856982432" redirect="true"/>
-  <file name="index.html" crc="4029853277" seo="true" mt="1659924860366" redirect="true"/>
+  <file name="index.html" crc="45819504" seo="true" mt="1660018994938" redirect="true"/>
   <file name="verify-f.html" crc="21661623" seo="true" mt="1659856982432" redirect="true"/>
   <file name="g-member.html" crc="189993670" seo="true" mt="1659856982432" redirect="true"/>
   <file name="verify-b.html" crc="279482276" seo="true" mt="1659856982432" redirect="true"/>
