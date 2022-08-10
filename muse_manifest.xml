@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1660090415362">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="memetengogku.github.io" resolutions="1x" timestamp="1660090442662">
   <folder name="assets">
     <file name="nani.gif" crc="3993418248" seo="true" mt="1659839197000"/>
   </folder>
@@ -1009,10 +1009,10 @@
     <file name="u34615-4.png" crc="4186480125" ref="number4"/>
     <file name="u34606-32.png" crc="3861596392" ref="number4"/>
     <file name="npnn1ur91og91.jpg" crc="380923067" seo="true" ref="number4:number4-copy">
-      <caption webpage="number4" alt=""/>
       <caption webpage="rule-under-copy" alt=""/>
       <caption webpage="rule-under-copy" alt=""/>
       <caption webpage="number4-copy" alt=""/>
+      <caption webpage="number4" alt=""/>
     </file>
     <file name="u35071-4.png" crc="4202977587" ref="number4"/>
     <file name="u35173-4.png" crc="528358" ref="number4"/>
@@ -1209,8 +1209,8 @@
     <file name="u35295_states.png" crc="4288242003" ref="index"/>
     <file name="u35295_states-r.png" crc="4288242003" ref="index"/>
     <file name="npnn1ur91og91508x604.jpg" crc="4101523543" seo="true" ref="number4:number4-copy">
-      <caption webpage="number4" alt=""/>
       <caption webpage="number4-copy" alt=""/>
+      <caption webpage="number4" alt=""/>
     </file>
     <file name="adgepr2_700b508x469.jpg" crc="457879881" seo="true" ref="number4">
       <caption webpage="number4-copy" alt=""/>
@@ -1255,7 +1255,7 @@
       <caption webpage="numberc" alt=""/>
       <caption webpage="numberc" alt=""/>
     </file>
-    <file name="u35429-4.png" crc="4186480125" ref="number4-copy"/>
+    <file name="u35429-4.png" crc="4087300403" ref="number4-copy"/>
     <file name="u35413-4.png" crc="465669136" ref="number4-copy"/>
     <file name="u35428-6.png" crc="4131515131" ref="number4-copy"/>
     <file name="u35393_states.png" crc="3791629997" ref="number4-copy"/>
@@ -1269,7 +1269,7 @@
     <file name="u35373-4.png" crc="529216968" ref="number4-copy"/>
     <file name="u35409-4.png" crc="4043376437" ref="number4-copy"/>
     <file name="u35414-8.png" crc="3945513404" ref="number4-copy"/>
-    <file name="u35429-42.png" crc="4277887853" ref="number4-copy"/>
+    <file name="u35429-42.png" crc="4287127656" ref="number4-copy"/>
     <file name="u35413-42.png" crc="3935417934" ref="number4-copy"/>
     <file name="u35428-62.png" crc="4215701777" ref="number4-copy"/>
     <file name="u35393_states2.png" crc="25209097" ref="number4-copy"/>
@@ -1312,5 +1312,5 @@
   <file name="number3.html" crc="3905076937" seo="true" mt="1660018915968" redirect="true"/>
   <file name="numberc.html" crc="3932365893" seo="true" mt="1660089348599" redirect="true"/>
   <file name="number4.html" crc="13105254" seo="true" mt="1660088666903" redirect="true"/>
-  <file name="number4-copy.html" crc="58549168" seo="true" mt="1660089983588" redirect="true"/>
+  <file name="number4-copy.html" crc="84351914" seo="true" mt="1660090434639" redirect="true"/>
 </manifest>
