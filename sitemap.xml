@@ -320,9 +320,12 @@
   </url>
   <url>
     <loc>http://memetengogku.github.io/numberc.html</loc>
-    <lastmod>2022-08-10</lastmod>
+    <lastmod>2022-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/e.jpg</image:loc>
+    </image:image>
     <image:image>
       <image:loc>http://memetengogku.github.io/images/1659923916206.jpg</image:loc>
     </image:image>
@@ -340,9 +343,6 @@
     </image:image>
     <image:image>
       <image:loc>http://memetengogku.github.io/images/0f4niioghcg91.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://memetengogku.github.io/images/e3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://memetengogku.github.io/images/ik5o16r7fdg91.jpg</image:loc>
@@ -547,6 +547,99 @@
     </image:image>
     <image:image>
       <image:loc>http://memetengogku.github.io/images/ae83qrg_700b.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://memetengogku.github.io/number5.html</loc>
+    <lastmod>2022-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/arnyqqv_700b508x509.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/a1195d6_700b508x320.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/ysp4uvvxuvg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/8znls6222sg91508x470.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/ewq508x397.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/0duxcgckvxg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/unwcjaomhxg91508x334.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/63197v0givg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/p2sowhuqfvg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/agzx2r5_700b508x502.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/tw76xlhx1wg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/ayr9q3o_700b508x715.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/464.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/kahclg9nzvg91508x517.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/amg3mg2_700b508x330.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/c4rqfrp19sg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/c32vxvxo5tg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/polish_20220811_030809772jpg.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/465.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/ovq9rlcqkyg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/arnyqqv_700b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/a1195d6_700b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/8znls6222sg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/ewq2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/unwcjaomhxg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/agzx2r5_700b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/ayr9q3o_700b.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/kahclg9nzvg91.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://memetengogku.github.io/images/amg3mg2_700b.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
